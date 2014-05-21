@@ -1,0 +1,12 @@
+n = int(raw_input(" "))
+y = []
+for x in range(0,n):
+    a = raw_input(" ")
+    b = raw_input(" ")
+    
+    for char in a:ff
+        for z in b:
+            y.append(char)
+            
+    print y
+
